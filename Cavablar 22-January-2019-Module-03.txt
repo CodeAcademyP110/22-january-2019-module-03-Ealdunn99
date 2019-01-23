@@ -1,0 +1,70 @@
+﻿1(
+
+
+imperative 
+Declarative
+Structured
+Procedural
+Functional 
+Function-Level
+
+
+Object-Oriented{
+Class-based
+Prototype-based
+}
+
+
+Event-Driven
+Flow-Driven
+Logic
+Constraint
+Aspect-Oriented
+Reflective
+Array
+
+
+)
+
+
+2(
+ •  imperative addim addim is gorur ; declarative  ise ne basverdiyini bilmirsen
+ •  imperativede her bir emri deyise control ede bilirsen ; declarative  ise  yox (hazir hell verir)
+ •  imperative  code uzun olur ;  declarative  ise code qisa rahat olur 
+ •  imperative   de isi nece etmeyi deyirsen; declarative ise ne etmek emrini verirsen(nece etdiyini bilmiriy)
+)
+
+
+3(
+Obyekt yonumlu programlasdirma 4 prinsipnen isdiyir
+ •encapsulation
+ •abstraction
+ •inheritance
+ •polymorphism
+
+
+Obyekt yonumlu paradiqma
+Obyektlerle isdiyir.
+Meselen
+Ev ,avtomobil, notebook, smartphone...
+Ve obyektlerin xasseleri olur ,adlari eyni olsada (ev-ev, notebook-notebook...) Onlarin xasseleri ferqlidir ,
+2 mertebeli ev,4 mertebeli ev, heyet evi...
+Yungul nasik notebook,agir qalin  notebook...
+Veya defter ,1 obyekt olsada dizayni deyisir yasil qirmizi ag qara 48vereqli 96vereqli.
+Insannarda oldugu kimi neceki biz gozumuzun sacimizin rengini ata ana ve genlerden aliriq
+Obyekt yonumlu paradiqmada da ozunde olmayan xasseni diger obyekt den obyekte cagirmaq olur
+
+
+Bu paraqidmada herbir obyekt daha sade obyektlerden ibaretdi. Meselen(avtomobil teker , motor,qapi... Dan ibaretdi ve motorda diger obyektlerden ,hemin obyekte ise daha sade lerden ibaretdi.
+)
+
+
+
+
+4(
+
+
+Eledeyim isden asili olaraq deyisir
+Standard ve tes tes eyni project ler ucun declarative. Unikal , custom  project ler ucun
+imperative isdifade ederdim
+Yalniz birini secmey menasiz olardi mence.
